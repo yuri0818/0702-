@@ -1,4 +1,4 @@
-ruby:config/application.rb（コメント部分は記述する必要はありません）
+
 require_relative 'boot'
 
 require 'rails/all'
